@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/bal16/nocap.ai-API.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nopal72/nocap.ai-FE.git
+[submodule "ml-service"]
+	path = ml-service
+	url = https://github.com/alif40550/ml-services-noCapt.ai.git
