@@ -9,10 +9,9 @@
   <br/>
   
   <h1>nocap.ai</h1>
-  <p>
-    <b>No Cap, Just Data.</b><br>
-    Platform analisis desain visual dan prediksi engagement untuk konten media sosial bertenaga AI.
-  </p>
+  <h1>
+    <b>See Beyond The Likes</b><br>
+  </h1>
 
   <p>
     <a href="https://opensource.org/licenses/MIT">
